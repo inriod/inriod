@@ -13,7 +13,7 @@ Engineering enthusiast with a strong interest in technical problem-solving, desi
 | [Wireless Rocket Launch Controller](https://github.com/chaikofe/rocket-launcher-guide) *(contributor)* | Flight-tested ignition system for student rocketry: a handheld Arduino GIGA touchscreen controller talks over a 433 MHz HC-12 radio to a 4-channel relay launch pad, with igniter continuity checks and live telemetry |
 | [Medication Dispenser](https://github.com/inriod/medication_dispenser) | Stepper-driven rotating dispenser with an OLED display and safety lock, modeled as a full SolidWorks assembly |
 | [Smart Hydroponic System](https://github.com/inriod/smart_hydroponic_system) | System design for automated growing: pH, EC, water-level, light and climate sensors driving pumps, valves, lights and fans |
-| [Traffic Light Controller](https://github.com/inriod/traffic_light_controller) | 4-way intersection on an Arduino Mega: finite-state machine with all-red safety states, pedestrian request buttons and buzzer cues, all on non-blocking `millis()` timing. [Demo video](https://www.youtube.com/watch?v=-PDQRHgW4zY) |
+| [Traffic Light Controller](https://github.com/inriod/traffic_light_controller) | 4-way intersection on an Arduino Mega: finite-state machine with all-red safety states, pedestrian request buttons and buzzer cues, all on non-blocking `millis()` timing|
 | [Lab Reports](https://github.com/inriod/lab-reports) | Circuits coursework: BJT and MOSFET logic, op-amps, rectifiers, RLC analysis, an R-2R DAC and more |
 | [CMOS Logic in LTspice](https://github.com/inriod/eda-and-circuit-simulation-basics) | CMOS inverter, NAND, NOR and an SR latch, built and simulated at transistor level |
 
