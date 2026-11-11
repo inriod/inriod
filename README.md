@@ -3,7 +3,7 @@
 Engineering enthusiast with a strong interest in technical problem-solving, design, and practical engineering work. Interested in building systems across hardware and software while continuously learning new technologies and engineering workflows.
 
 ### 🔧 Working on now
-- **STM32 Dino bot:** an STM32 Black Pill that plays the Chrome Dino game with a servo. It links over UART to a classmate's guitar project, so in a special mode the guitar controls the jumps.
+- **STM32 Dino bot:** an autonomous controller for the Chrome Dino game, built on an STM32 Black Pill. It detects incoming obstacles and jumps or ducks on its own through a servo actuator, continuously recalculating its reaction timing as the game accelerates. A second mode links it over UART to a separate guitar-based board, so the game can be played live from a guitar.
 - **Learning PCB design:** going from schematic to layout to a fabricated board, so my next projects live on a PCB instead of a breadboard.
 - **Robot mechanics:** studying robot kinematics and dynamics, and simulating robots in MuJoCo.
 
