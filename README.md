@@ -27,7 +27,7 @@ Engineering enthusiast with a strong interest in technical problem-solving, desi
 | **PCB Design** | KiCad *(learning)* |
 | **Robotics** | Kinematics, dynamics, MuJoCo *(learning)* |
 | **Mechanical CAD** | SolidWorks |
-| **Certifications** | Certified SolidWorks Associate (CSWA), Cisco Certified Network Associate (CCNA) *(in progress)* |
+| **Certifications** | Certified SolidWorks Associate (CSWA)<br>Cisco Certified Network Associate (CCNA) *(in progress)* |
 
 ### 📫 Contact
 inriods@gmail.com
